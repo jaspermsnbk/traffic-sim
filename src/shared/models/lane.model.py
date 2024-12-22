@@ -1,0 +1,2 @@
+class Lane():
+    type: str
